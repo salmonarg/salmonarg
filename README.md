@@ -1,7 +1,5 @@
 > You can call me `"khangai"` or whatever you like.
 
-This user is a college student majoring in GIS, based in Hangzhou, P. R. of China.
-
 <br>
 
 [![Top Langs-Dark](https://github-readme-stats-teal-omega-53.vercel.app/api/top-langs/?username=salmonarg&show_icons=true&theme=github_dark_dimmed&hide=html&layout=compact&stats_format=bytes#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
