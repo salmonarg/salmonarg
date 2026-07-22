@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td>Shyake</td>
+<td><a href="https://github.com/salmonization/shyake">Shyake</a></td>
 <td><code>khangai@shyake.eee.coffee</code></td>
 </tr>
 <tr>
