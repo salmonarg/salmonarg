@@ -2,9 +2,13 @@
 
 `C`, `Python`, `Go`, and `TypeScript`
 
+`Ghostty`, `Neovim`, `Ungoogled Chromium`
+
 <br>
 
 [![GitHub Roast Score Badge](https://ghfind.com/api/badge/salmonarg)](https://ghfind.com/u/salmonarg?ref=badge)
+
+`LOVE YOU ALL`
 
 <br>
 
@@ -15,13 +19,14 @@
 
 -->
 
+連絡先:
+
 <table>
-<tr>
-<td><a href="https://github.com/salmonization/shyake">Shyake</a></td>
+<td>Shyake</td>
 <td><code>khangai@shyake.eee.coffee</code></td>
 </tr>
 <tr>
-<td>E-mail</td>
+<td>Email</td>
 <td><code>salmon.caffeine@gmail.com</code></td>
 </tr>
 <tr>
@@ -29,7 +34,5 @@
 <td><code>khangai@caffeine.ink</code></td>
 </tr>
 </table>
-
-<br>
 
 ここではないどこかに: [`freeCodeCamp`](https://www.freecodecamp.org/lachsargument)
